@@ -1,0 +1,1 @@
+"use strict";const e=require("../utils/request.js");exports.SarchPosts=function(t){return e.service.post("/searchPosts",{searchText:t})},exports.getSarch=function(t){return e.service.post("/search",{searchText:t})},exports.getSearchHot=function(){return e.service.get("/getSearchHot")};

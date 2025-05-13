@@ -1,0 +1,2 @@
+@import "../../app.wxss";
+body.data-v-161a3fbd{transition:.1s all}.nav-bar.data-v-161a3fbd{background:#ee9ca7;background:linear-gradient(to right,#ee9ca7,#ffdde1)}.search-result-input.data-v-161a3fbd{width:750rpx}.search-result-input .search-box.data-v-161a3fbd{width:100%;display:flex;justify-content:center;align-items:center}.search-result-input .search-result-data.data-v-161a3fbd{margin:10rpx;font-size:24rpx}

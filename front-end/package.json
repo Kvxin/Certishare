@@ -1,0 +1,26 @@
+{
+  "name": "certishare_v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17",
+    "autoprefixer": "^9.8.8",
+    "axios": "^0.26.0",
+    "axios-miniprogram-adapter": "^0.3.5",
+    "clipboard": "^2.0.11",
+    "dayjs": "^1.11.10",
+    "moment": "^2.30.1",
+    "pinia-plugin-persist": "^1.0.0",
+    "postcss": "^7.0.39",
+    "postcss-class-rename": "^1.0.1",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
+    "tailwindcss-miniprogram-preset": "^2.1.2"
+  }
+}

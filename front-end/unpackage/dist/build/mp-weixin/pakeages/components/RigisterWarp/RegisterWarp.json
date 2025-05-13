@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "up-text": "../../uni_modules/uview-plus/components/u-text/u-text",
+    "up-button": "../../uni_modules/uview-plus/components/u-button/u-button",
+    "u-modal": "../../uni_modules/uview-plus/components/u-modal/u-modal"
+  }
+}

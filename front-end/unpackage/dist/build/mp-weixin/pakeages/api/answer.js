@@ -1,0 +1,1 @@
+"use strict";const e=require("../utils/request.js");exports.getQuestion=function(t,r){return e.service({url:"/getQuestion",method:"GET",params:{data:t,userId:r}})},exports.postAnswer=function(t){return e.service({url:"/post-answer",method:"POST",params:{data:t}})};

@@ -1,0 +1,9 @@
+
+# 忽略根目录下的 .env 文件
+/.env
+
+# 忽略整个 node_modules 目录
+node_modules/
+
+# 忽略所有包含 'test' 字样的文件
+*test*

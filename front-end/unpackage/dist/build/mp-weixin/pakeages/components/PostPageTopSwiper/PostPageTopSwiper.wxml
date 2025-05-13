@@ -1,0 +1,1 @@
+<swiper indicator-dots><swiper-item wx:for="{{a}}" wx:for-item="chunk" wx:key="b" class="swiper-item"><view wx:for="{{chunk.a}}" wx:for-item="item" wx:key="c" class="icon-wrapper" bindtap="{{item.d}}"><view class="{{['t-icon', item.a, 'icon']}}"></view><view class="icon-name">{{item.b}}</view></view></swiper-item></swiper>

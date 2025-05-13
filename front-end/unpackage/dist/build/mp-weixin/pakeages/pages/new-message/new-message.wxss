@@ -1,0 +1,2 @@
+@import "../../app.wxss";
+.message-page.data-v-21f92411{width:100%;height:100vh;background-color:red;display:flex;justify-content:center;align-items:center}

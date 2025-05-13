@@ -1,0 +1,1 @@
+import{s as t}from"./request.5e8d59d2.js";function e(e){return t.post("/search",{searchText:e})}function r(e){return t.post("/searchPosts",{searchText:e})}function s(){return t.get("/getSearchHot")}export{r as S,e as a,s as g};

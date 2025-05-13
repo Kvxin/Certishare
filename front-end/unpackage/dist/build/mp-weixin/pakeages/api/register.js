@@ -1,0 +1,1 @@
+"use strict";const e=require("../utils/request.js");exports.register=function(r){return e.service.post("/register",{userData:r})},exports.sendCode=function(r){return e.service.post("/sendVerification",{email:r})};

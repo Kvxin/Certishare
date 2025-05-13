@@ -1,0 +1,1 @@
+<scroll-view scroll-with-animation scroll-x="true" scroll-left="120" class="{{['scroll-view_H', 'data-v-9367190c', b && 'sticky-nav']}}"><view wx:for="{{a}}" wx:for-item="item" class="{{['scroll-view-item_H', 'data-v-9367190c', item.b && 'active']}}" bindtap="{{item.c}}">{{item.a}}</view></scroll-view>

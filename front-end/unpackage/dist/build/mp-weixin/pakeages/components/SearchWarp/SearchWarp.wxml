@@ -1,0 +1,1 @@
+<view class="search-warp data-v-d3c7543a"><view class="search-box data-v-d3c7543a"><u-search wx:if="{{b}}" class="data-v-d3c7543a" bindclick="{{a}}" u-i="d3c7543a-0" bind:__l="__l" u-p="{{b}}"></u-search></view></view>

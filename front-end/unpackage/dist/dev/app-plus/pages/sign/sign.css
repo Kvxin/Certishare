@@ -1,0 +1,134 @@
+
+.all[data-v-e7f836bd] {
+		margin-top: 0.625rem;
+}
+.all .bar[data-v-e7f836bd] {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		margin: 0.9375rem 0.625rem;
+		padding: 0.3125rem;
+}
+.bar .barbtn[data-v-e7f836bd] {
+		height: 30px;
+		line-height: 30px;
+		font-size: 12px;
+}
+.all .week-area[data-v-e7f836bd] {
+		display: flex;
+		justify-content: space-between;
+		padding: 10px 0;
+		box-sizing: border-box;
+		width: 91vw;
+		margin: 10px auto;
+		border-radius: 10px;
+}
+.all .week-txt[data-v-e7f836bd] {
+		text-align: center;
+		width: 13vw;
+}
+.myDateTable[data-v-e7f836bd] {
+		margin: 0 auto;
+		width: 91vw;
+		padding: 2vw;
+		border-radius: 10px;
+		background: linear-gradient(#74aada, #94db98);
+}
+.myDateTable .dateCell[data-v-e7f836bd] {
+		width: 13vw;
+		padding: 1vw;
+		display: inline-block;
+		text-align: center;
+		font-size: 16px;
+		box-sizing: border-box;
+		overflow: hidden;
+}
+.dateCell .cell[data-v-e7f836bd] {
+		display: flex;
+		border-radius: 50%;
+		height: 11vw;
+		justify-content: center;
+		align-items: center;
+		box-sizing: border-box;
+		flex-direction: column;
+}
+.whiteColor[data-v-e7f836bd] {
+		color: #fff;
+}
+.greenColor[data-v-e7f836bd] {
+		color: #01b90b;
+		font-weight: bold;
+}
+.bgWhite[data-v-e7f836bd] {
+		background-color: #fff;
+}
+.bgGray[data-v-e7f836bd] {
+		background-color: rgba(255, 255, 255, 0.42);
+}
+.bgBlue[data-v-e7f836bd] {
+		font-size: 14px;
+		background-color: #4b95e6;
+}
+.redColor[data-v-e7f836bd] {
+		color: #ff0000;
+}
+.outSignStyle[data-v-e7f836bd] {
+		border: 1px solid #ffffff;
+		color: #ffffff;
+}
+.redDot[data-v-e7f836bd] {
+		width: 3px;
+		height: 3px;
+		border-radius: 50%;
+		background-color: red;
+}
+
+
+.count .daynumber {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+}
+.count .daynumber .day {
+		margin-top: 1.5625rem;
+}
+.count {
+		margin: 0.625rem;
+		padding: 0.9375rem;
+		display: flex;
+		text-align: center;
+		border-radius: 10px;
+		flex-direction: column;
+		justify-content: center;
+		background-color: #fff;
+		align-items: center;
+}
+.count .number {
+		color: #fff;
+		font-size: 1.875rem;
+		background-color: #94db98;
+		width: 3.125rem;
+		height: 3.125rem;
+		border-radius: 50%;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		margin: 0.625rem;
+}
+.monthSum {
+		color: red;
+		font-size: 1.25rem;
+}
+.count uni-text {
+		margin: 0.3125rem;
+}
+.TipArea {
+		word-break: break-all;
+		word-wrap: break-word;
+		font-size: 14px;
+		padding: 10px;
+}
+.impTip {
+		display: inline-block;
+		color: #ff0000;
+}

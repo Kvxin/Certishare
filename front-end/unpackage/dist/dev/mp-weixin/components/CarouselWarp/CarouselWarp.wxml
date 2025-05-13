@@ -1,0 +1,1 @@
+<view class="carousel-warp"><view class="carousel-box"><u-swiper wx:if="{{b}}" bindclick="{{a}}" u-i="ed53ec4a-0" bind:__l="__l" u-p="{{b}}"></u-swiper></view></view>

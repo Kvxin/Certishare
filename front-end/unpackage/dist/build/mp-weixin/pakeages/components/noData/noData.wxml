@@ -1,0 +1,1 @@
+<image src="https://picturebed.kvxin.top/certishare_asstes/undraw_void_3ggu.png" mode="aspectFill"></image><text>仿佛来到了无人之境~</text><view class="button" style="margin-top:100rpx"><up-button wx:if="{{b}}" bindclick="{{a}}" u-i="302c13bb-0" bind:__l="__l" u-p="{{b}}"></up-button></view>

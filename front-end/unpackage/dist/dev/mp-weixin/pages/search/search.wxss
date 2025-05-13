@@ -1,0 +1,195 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+body.data-v-c10c040c {
+  transition: 0.1s all;
+}
+.nav-bar.data-v-c10c040c {
+  background: #ee9ca7;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ee9ca7, #ffdde1);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.pin.data-v-c10c040c {
+  width: 20rpx;
+  height: 30rpx;
+  background-color: aqua;
+  filter: blur(1.8px);
+  margin-right: 10rpx;
+}
+.pin-2.data-v-c10c040c {
+  width: 20rpx;
+  height: 30rpx;
+  background-color: #f7797d;
+  filter: blur(1.8px);
+  margin-right: 10rpx;
+}
+.search-page.data-v-c10c040c {
+  width: 750rpx;
+}
+.search-page .search-box.data-v-c10c040c {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-page .search-warp.data-v-c10c040c {
+  width: 100%;
+}
+.search-page .search-warp .search-history.data-v-c10c040c {
+  width: 100%;
+  height: 200rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.search-page .search-warp .search-history .history-title.data-v-c10c040c {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+.search-page .search-warp .search-history .history-title .left.data-v-c10c040c {
+  display: flex;
+  align-items: center;
+}
+.search-page .search-warp .search-history .history-body.data-v-c10c040c {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-page .search-warp .search-history .history-body .history-items.data-v-c10c040c {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  margin-top: 20rpx;
+}
+.search-page .search-warp .search-history .history-body .history-items .history-item.data-v-c10c040c {
+  margin-right: 20rpx;
+  margin-bottom: 20rpx;
+  height: 54rpx;
+  line-height: 54rpx;
+  padding: 0 12rpx;
+  border-radius: 27rpx;
+  text-align: center;
+  font-size: 22rpx;
+  border-radius: 30px;
+  border: 1px solid #eee;
+  color: #000;
+}
+.search-page .search-warp .searchBoard.data-v-c10c040c {
+  padding: 30rpx;
+  border-radius: 30rpx;
+  background: #ffefba;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #ffefba, white);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  margin-top: 210rpx;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.search-page .search-warp .board-titleBar.data-v-c10c040c {
+  margin-bottom: 30rpx;
+  display: flex;
+  align-items: center;
+  width: 80%;
+  justify-content: space-between;
+}
+.search-page .search-warp .board-titleBar .left.data-v-c10c040c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-page .search-warp .board-titleBar-txtImg.data-v-c10c040c {
+  height: 48rpx;
+}
+.search-page .search-warp .board-titleBar-more.data-v-c10c040c {
+  display: flex;
+  align-items: center;
+  font-size: 26rpx;
+  color: fff;
+}
+.search-page .search-warp .titleBar-more-iconRig.data-v-c10c040c {
+  margin-left: 10rpx;
+  height: 22rpx;
+}
+.search-page .search-warp .rankList-type1.data-v-c10c040c {
+  height: 320rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.search-page .search-warp .rankItem-type1.data-v-c10c040c {
+  width: 50%;
+  min-width: 0;
+  font-size: 30rpx;
+  color: #000;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.search-page .search-warp .rankItem-type1-num.data-v-c10c040c {
+  display: inline-block;
+  margin-right: 24rpx;
+  margin-bottom: 30rpx;
+  font-size: 32rpx;
+}
+.search-page .search-warp .rankItem-type1-num-act.data-v-c10c040c {
+  color: #3ffef0;
+}
+.search-page .search-warp .rank-hot-txt.data-v-c10c040c {
+  margin-left: 10rpx;
+  height: 18rpx;
+  vertical-align: middle;
+}
+.search-page .search-warp .searchBoard2.data-v-c10c040c {
+  background-image: linear-gradient(to bottom, #222637 10%, #202125);
+}
+.search-page .search-warp .rankItem-type2.data-v-c10c040c {
+  display: flex;
+  align-items: center;
+  margin-bottom: 36rpx;
+}
+.search-page .search-warp .rankItem-type2-num.data-v-c10c040c {
+  font-size: 36rpx;
+  font-style: oblique;
+  color: #fefefe;
+}
+.search-page .search-warp .rankItem-type2-avatar.data-v-c10c040c {
+  margin: 0 20rpx;
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 16rpx;
+}
+.search-page .search-warp .rankItem-type2-title.data-v-c10c040c {
+  font-size: 28rpx;
+  color: #fefefe;
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-nav-bar": "../../uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "no-data-vue": "../../components/noData/noData",
+    "article-props-warp-vue": "../../components/ArticlePropsWarp/ArticlePropsWarp"
+  }
+}

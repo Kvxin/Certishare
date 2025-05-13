@@ -1,0 +1,1 @@
+<view class="u-sticky data-v-ea57325d" id="{{b}}" style="{{c}}"><view style="{{a}}" class="u-sticky__content data-v-ea57325d"><slot/></view></view>

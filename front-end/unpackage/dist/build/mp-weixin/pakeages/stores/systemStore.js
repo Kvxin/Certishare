@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js"),t=e.defineStore("system",{state:()=>({navBar:e.index.getStorageSync("navBar")||{}}),getters:{getSystemNav:e=>e.navBar},actions:{setNavBar(t){e.index.setStorageSync("navBar",t),this.navBar=t}}});exports.systemStore=t;

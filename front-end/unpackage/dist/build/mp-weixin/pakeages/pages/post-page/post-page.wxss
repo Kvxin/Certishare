@@ -1,0 +1,2 @@
+@import "../../app.wxss";
+.post-page{width:100%;position:relative}.rule{display:flex;justify-content:space-between}.margin-top-xl-170{margin-top:170rpx}

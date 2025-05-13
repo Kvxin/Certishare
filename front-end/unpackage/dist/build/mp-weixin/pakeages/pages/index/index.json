@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-sticky": "../../uni_modules/uview-plus/components/u-sticky/u-sticky",
+    "nav-warp": "../../components/NavWarp/NavWarp",
+    "search-warp": "../../components/SearchWarp/SearchWarp",
+    "carousel-warp": "../../components/CarouselWarp/CarouselWarp",
+    "card-warp": "../../components/CardWarp/CardWarp",
+    "nav-bar-vue": "../../components/NavBar/NavBar",
+    "drag-vue": "../../components/drag/drag",
+    "post-page-top-swiper-vue": "../../components/PostPageTopSwiper/PostPageTopSwiper",
+    "notice-vue": "../../components/Notice/Notice",
+    "article-warp": "../../components/ArticleWarp/ArticleWarp",
+    "lodding-vue": "../../components/Lodding/Lodding"
+  }
+}

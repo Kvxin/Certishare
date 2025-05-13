@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-image": "../../uni_modules/uview-plus/components/u-image/u-image",
+    "u-swiper": "../../uni_modules/uview-plus/components/u-swiper/u-swiper",
+    "u-line": "../../uni_modules/uview-plus/components/u-line/u-line",
+    "up-image": "../../uni_modules/uview-plus/components/u-image/u-image",
+    "u-search": "../../uni_modules/uview-plus/components/u-search/u-search",
+    "comments-warp": "../../components/CommentsWarp/CommentsWarp",
+    "comment-block-vue": "../../components/CommentBlock/CommentBlock"
+  }
+}

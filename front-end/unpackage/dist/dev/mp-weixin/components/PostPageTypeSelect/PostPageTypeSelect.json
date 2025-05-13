@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-search": "../../uni_modules/uview-plus/components/u-search/u-search",
+    "up-button": "../../uni_modules/uview-plus/components/u-button/u-button"
+  }
+}

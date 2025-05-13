@@ -1,0 +1,1 @@
+"use strict";const t=require("../../common/vendor.js"),e={name:"noData",data:()=>({})};if(!Array){t.resolveComponent("up-button")()}Math;const n=t._export_sfc(e,[["render",function(e,n,o,r,a,c){return{a:t.o(e.back),b:t.p({type:"primary",text:"返回上一页 "})}}]]);wx.createComponent(n);

@@ -1,0 +1,84 @@
+
+.all {
+		margin-top: 20rpx;
+}
+.all .bar {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		margin: 30rpx 20rpx;
+		padding: 10rpx;
+}
+.bar .barbtn {
+		height: 30px;
+		line-height: 30px;
+		font-size: 12px;
+}
+.all .week-area {
+		display: flex;
+		justify-content: space-between;
+		padding: 10px 0;
+		box-sizing: border-box;
+		width: 91vw;
+		margin: 10px auto;
+		border-radius: 10px;
+}
+.all .week-txt {
+		text-align: center;
+		width: 13vw;
+}
+.myDateTable {
+		margin: 0 auto;
+		width: 91vw;
+		padding: 2vw;
+		border-radius: 10px;
+		background: linear-gradient(#74aada, #94db98);
+}
+.myDateTable .dateCell {
+		width: 13vw;
+		padding: 1vw;
+		display: inline-block;
+		text-align: center;
+		font-size: 16px;
+		box-sizing: border-box;
+		overflow: hidden;
+}
+.dateCell .cell {
+		display: flex;
+		border-radius: 50%;
+		height: 11vw;
+		justify-content: center;
+		align-items: center;
+		box-sizing: border-box;
+		flex-direction: column;
+}
+.whiteColor {
+		color: #fff;
+}
+.greenColor {
+		color: #01b90b;
+		font-weight: bold;
+}
+.bgWhite {
+		background-color: #fff;
+}
+.bgGray {
+		background-color: rgba(255, 255, 255, 0.42);
+}
+.bgBlue {
+		font-size: 14px;
+		background-color: #4b95e6;
+}
+.redColor {
+		color: #ff0000;
+}
+.outSignStyle {
+		border: 1px solid #ffffff;
+		color: #ffffff;
+}
+.redDot {
+		width: 3px;
+		height: 3px;
+		border-radius: 50%;
+		background-color: red;
+}

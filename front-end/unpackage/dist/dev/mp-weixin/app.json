@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages/my/my",
+    "uni_modules/uni-upgrade-center-app/pages/upgrade-popup",
+    "pages/answer/answer",
+    "pages/knowledge/knowledge",
+    "pages/answer-result/answer-result",
+    "pages/new-message/new-message",
+    "pages/card-info/card-info",
+    "pages/search/search",
+    "pages/search-result/search-result",
+    "pages/post-page/post-page",
+    "pages/article/article",
+    "pages/sign/sign",
+    "pages/my-post/my-post",
+    "pages/message/message",
+    "pages/posts-page/posts-page",
+    "pages/answer-data/answer-data",
+    "pages/setting/setting"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/index.png",
+        "selectedIconPath": "static/tabbar/index_selected.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/tabbar/my.png",
+        "selectedIconPath": "static/tabbar/my_selected.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

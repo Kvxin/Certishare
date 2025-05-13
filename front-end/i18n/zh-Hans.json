@@ -1,0 +1,24 @@
+{
+	"login": {
+		"loginPage": {
+			"text": {
+				"title": "欢迎回来！",
+				"prompt": "输入账号密码以登录或者注册一个账户"
+			},
+			"field": {
+				"username": "输入邮箱或者用户名",
+				"password": "输入密码",
+				"placeholder": {
+					"username": "请输入邮箱",
+					"password": "请输入密码"
+				},
+				"tips": {
+					"p": "没有账号?",
+					"span": "立即注册!"
+				},
+				"model": "提示",
+				"button": "登录"
+			}
+		}
+	}
+}

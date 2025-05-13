@@ -1,0 +1,1 @@
+<view><sign-in-vue wx:if="{{c}}" binddateChange="{{a}}" bindclickChange="{{b}}" u-i="bf9da122-0" bind:__l="__l" u-p="{{c}}"></sign-in-vue><view class="count"><text>截至目前，已坚持打卡</text><view class="daynumber"><text class="number">{{d}}</text><text class="day">天</text></view><view> 本月累积打卡 <text class="monthSum">{{e}}</text> 天 </view><text>请再接再厉，继续努力!</text></view></view>
